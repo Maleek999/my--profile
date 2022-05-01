@@ -1,0 +1,14 @@
+/* Colors and fonts */
+
+body {
+	background: rgb(230, 230, 230);
+	color:  rgeb(50, 50, 50);
+	font-family:  Helvetica;
+	font-size:  17px;
+	}
+
+h1 {
+	color: Yellow;
+	font-family:  Courier;
+    font-sise: 32px;
+  }
